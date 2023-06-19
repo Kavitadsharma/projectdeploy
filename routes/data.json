@@ -1,0 +1,264 @@
+[
+    {
+      "name": "Riya Verma",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/2c9f8d695498b25a0154d2db55b40255/1531314593420-mid.jpg",
+      "profile": "Nirvana Moments Photography",
+      "location": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+      "expertise": ["Weddings","Babies&Kids","Travel","Nature"],
+      "availability": true,
+      "price": 55000
+    },
+    {
+      "name": "Rahul Kapoor",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/d03e0d003b2911e3b6330e2f866a9102/1406102585436_mid.jpg",
+      "profile": "Pixel Perfect Studios",
+      "location": ["Bangalore", "Hyderabad", "Chandigarh", "Jaipur"],
+      "expertise": ["Weddings","Fastion","Portfolio","Commercial"],
+      "availability": true,
+      "price": 48000
+    },
+    {
+      "name": "Priya Sharma",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/2c9f8d6952b600c30152c4a9bff60025/1552548481006-mid.jpg",
+      "profile": "Frames and Flashes",
+      "location": ["Ahmedabad", "Lucknow", "Bhopal", "Guwahati"],
+      "expertise": ["Weddings","Corporate","Nature"],
+      "availability": true,
+      "price": 42000
+    },
+    {
+      "name": "Amit Singh",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/2c9f8d6953bc8bc60153caae69110069/1548317343266-mid.jpg",
+      "profile": "Capture Bliss Photography",
+      "location": ["Delhi", "Jaipur", "Mumbai", "Ahmedabad"],
+      "expertise": ["Birthdays","Corporate","Nature"],
+      "availability": true,
+      "price": 38000
+    },
+    {
+      "name": "Sneha Patel",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/27e889ce3d8a11e484950e2f866a9102/1528810387519-mid.jpg",
+      "profile": "Moments in Time",
+      "location": ["Mumbai", "Pune", "Goa", "Ahmedabad"],
+      "expertise": ["Weddings","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 60000
+    },
+    {
+      "name": "Ravi Verma",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/5e71180c3b2611e3b6330e2f866a9102/1434093942538-mid.JPG",
+      "profile": "Dreamscape Photography",
+      "location": ["Delhi", "Mumbai", "Jaipur", "Lucknow"],
+      "expertise": ["Birthdays","Weddings","Babies&Kids","Travel","Nature"],
+      "availability": true,
+      "price": 45000
+    },
+    {
+      "name": "Aishwarya Patel",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/4efd7f9321e511e484950e2f866a9102/1407905030088_mid.jpg",
+      "profile": "Enchanted Frames",
+      "location": ["Ahmedabad", "Surat", "Vadodara", "Rajkot"],
+      "expertise": ["Weddings","Fastion","Portfolio","Commercial"],
+      "availability": true,
+      "price": 55000
+    },
+    {
+      "name": "Nikhil Sharma",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/4aaad80d747911e4ae4c0e2f866a9102/1434785231163-mid.jpg",
+      "profile": "Picture Perfect Moments",
+      "location": ["Mumbai", "Delhi", "Bangalore", "Chennai"],
+      "expertise": ["Birthdays","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 42000
+    },
+    {
+      "name": "Ananya Kapoor",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/ebef5f883b2a11e3b6330e2f866a9102/1409833764181_mid.jpg",
+      "profile": "Everlasting Memories",
+      "location": ["Bangalore", "Hyderabad", "Chennai", "Kolkata"],
+      "expertise": ["Weddings","Fastion","Portfolio","Commercial"],
+      "availability": true,
+      "price": 50000
+    },
+    {
+      "name": "Rajesh Gupta",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/0632df6b3b2611e3b6330e2f866a9102/1539091710666-mid.jpg",
+      "profile": "Candid Clicks",
+      "location": ["Mumbai", "Delhi", "Jaipur", "Chandigarh"],
+      "expertise": ["Birthdays","Weddings","Babies&Kids","Travel","Nature"],
+      "availability": true,
+      "price": 40000
+    },
+    {
+      "name": "Suman Malik",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/6a90c3b48b1a11e4ae4c0e2f866a9102/1419391423179_mid.jpg",
+      "profile": "Magical Moments Photography",
+      "location": ["Delhi", "Mumbai", "Lucknow", "Chennai"],
+      "expertise": ["Weddings","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 60000
+    },
+    {
+      "name": "Vikas Mehta",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/27fed6f03b2911e3b6330e2f866a9102/1419830008546_mid.jpg",
+      "profile": "Frame by Frame",
+      "location": ["Bangalore", "Hyderabad", "Chandigarh", "Jaipur"],
+      "expertise": ["Birthdays","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 35000
+    },
+    {
+      "name": "Divya Singh",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/2c9f81524bb5487c014bbeee97e00008/1484277823410-mid.jpg",
+      "profile": "Moments to Remember",
+      "location": ["Mumbai", "Pune", "Goa", "Ahmedabad"],
+      "expertise": ["Weddings","Weddings","Babies&Kids","Travel","Nature"],
+      "availability": true,
+      "price": 55000
+    },
+    {
+      "name": "Rakesh Patel",
+      "image": "https://example.com/images/rakesh-patel.jpg",
+      "profile": "Timeless Frames",
+      "location": ["Delhi", "Mumbai", "Jaipur", "Lucknow"],
+      "expertise": ["Birthdays","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 45000
+    },
+    {
+      "name": "Pooja Verma",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/7425161d485e11e484950e2f866a9102/1538320706111-mid.jpg",
+      "profile": "Candid Captures",
+      "location": ["Ahmedabad", "Surat", "Vadodara", "Rajkot"],
+      "expertise": ["Weddings","Fastion","Portfolio","Commercial"],
+      "availability": true,
+      "price": 60000
+    },
+    {
+      "name": "Sahil Sharma",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/89c6667bfeba11e3be570e2f866a9102/1460453036405-mid.jpg",
+      "profile": "Snapshot Memories",
+      "location": ["Mumbai", "Delhi", "Bangalore", "Chennai"],
+      "expertise": ["Birthdays","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 42000
+    },
+    {
+      "name": "Neha Kapoor",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/c27f84f73b2e11e3b6330e2f866a9102/1403953142889_mid.jpg",
+      "profile": "Cherished Moments",
+      "location": ["Bangalore", "Hyderabad", "Chennai", "Kolkata"],
+      "expertise": ["Weddings","Weddings","Babies&Kids","Travel","Nature"],
+      "availability": true,
+      "price": 50000
+    },
+    {
+      "name": "Amita Gupta",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/d608c5713b2b11e3b6330e2f866a9102/1415260791969_mid.jpg",
+      "profile": "Dreamy Portraits",
+      "location": ["Mumbai", "Delhi", "Jaipur", "Chandigarh"],
+      "expertise": ["Birthdays","Fastion","Portfolio","Commercial"],
+      "availability": true,
+      "price": 40000
+    },
+    {
+      "name": "Rahul Malhotra",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/2c9f81524ca04468014cdabe72f90033/1429599861392-mid.jpg",
+      "profile": "Precious Pixels",
+      "location": ["Delhi", "Mumbai", "Lucknow", "Chennai"],
+      "expertise": ["Weddings","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 60000
+    },
+    {
+      "name": "Anjali Mehta",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/334818363b2811e3b6330e2f866a9102/1470926449734-mid.jpg",
+      "profile": "Soulful Frames",
+      "location": ["Bangalore", "Hyderabad", "Chandigarh", "Jaipur"],
+      "expertise": ["Birthdays","Weddings","Babies&Kids","Travel","Nature"],
+      "availability": true,
+      "price": 35000
+    },
+    {
+      "name": "Manish Singh",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/2c9f8d6953bc8bc60153caae69110069/1474468565503-mid.JPG",
+      "profile": "Blissful Memories",
+      "location": ["Mumbai", "Pune", "Goa", "Ahmedabad"],
+      "expertise": ["Weddings","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 55000
+    },
+    {
+      "name": "Sara Patel",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/7dbeeadd3b2311e3b6330e2f866a9102/1463394667387-mid.jpg",
+      "profile": "Timeless Elegance",
+      "location": ["Delhi", "Mumbai", "Jaipur", "Lucknow"],
+      "expertise": ["Birthdays","Fastion","Portfolio","Commercial"],
+      "availability": true,
+      "price": 45000
+    },
+    {
+      "name": "Kunal Verma",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/2e4827a23b2311e3b6330e2f866a9102/1475217985735-mid.jpg",
+      "profile": "Captivating Moments",
+      "location": ["Ahmedabad", "Surat", "Vadodara", "Rajkot"],
+      "expertise": ["Weddings","Fastion","Portfolio","Commercial"],
+      "availability": true,
+      "price": 60000
+    },
+    {
+      "name": "Swati Sharma",
+      "image": "https://d3btuubl2bvm9d.cloudfront.net/images/2c9f8d695498b25a0154d39e72dc0261/1575572407855-mid.jpg",
+      "profile": "Joyful Snaps",
+      "location": ["Mumbai", "Delhi", "Bangalore", "Chennai"],
+      "expertise": ["Birthdays","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 42000
+    },
+    {
+      "name": "Rajat Kapoor",
+      "image": "https://example.com/images/rajat-kapoor.jpg",
+      "profile": "Eternal Memories",
+      "location": ["Bangalore", "Hyderabad", "Chennai", "Kolkata"],
+      "expertise": ["Weddings","Fastion","Portfolio","Commercial"],
+      "availability": true,
+      "price": 50000
+    },
+    {
+      "name": "Nidhi Gupta",
+      "image": "https://example.com/images/nidhi-gupta.jpg",
+      "profile": "Dreamy Visions",
+      "location": ["Mumbai", "Delhi", "Jaipur", "Chandigarh"],
+      "expertise": ["Birthdays","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 40000
+    },
+    {
+      "name": "Aryan Malhotra",
+      "image": "https://example.com/images/aryan-malhotra.jpg",
+      "profile": "Magical Shots",
+      "location": ["Delhi", "Mumbai", "Lucknow", "Chennai"],
+      "expertise": ["Weddings","Portfolio","Commercial"],
+      "availability": true,
+      "price": 60000
+    },
+    {
+      "name": "Deepika Mehta",
+      "image": "https://example.com/images/deepika-mehta.jpg",
+      "profile": "Enchanted Moments",
+      "location": ["Bangalore", "Hyderabad", "Chandigarh", "Jaipur"],
+      "expertise": ["Birthdays","Portfolio","Commercial"],
+      "availability": true,
+      "price": 35000
+    },
+    {
+      "name": "Vishal Singh",
+      "image": "https://example.com/images/vishal-singh.jpg",
+      "profile": "Captured Dreams",
+      "location": ["Mumbai", "Pune", "Goa", "Ahmedabad"],
+      "expertise": ["Weddings","Babies&Kids","Travel"],
+      "availability": true,
+      "price": 55000
+    }
+  ]
+  
